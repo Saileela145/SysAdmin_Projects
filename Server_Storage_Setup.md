@@ -34,14 +34,9 @@ exit
 
 '''
 
-<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/cb0230ea-af99-4af9-870b-fa7c0003b73b" />
+![HR Partition](https://github.com/user-attachments/assets/cb0230ea-af99-4af9-870b-fa7c0003b73b)
+![Accounts Partition](https://github.com/user-attachments/assets/ca548986-c916-4dfb-b1b5-053d041fca5f)
+![IT Partition](https://github.com/user-attachments/assets/55592def-594c-4a38-8571-f485b7eb3b19)
+# the final disk management storage allocated:
 
-<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/ca548986-c916-4dfb-b1b5-053d041fca5f" />
-
-<img width="960" height="1020" alt="image" src="https://github.com/user-attachments/assets/55592def-594c-4a38-8571-f485b7eb3b19" />
-
-
-#  The project was successfully completed
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fdc5ad96-1d4f-4f9f-a0f0-c1100aca621b" />
-
+![Final Volume List](https://github.com/user-attachments/assets/fdc5ad96-1d4f-4f9f-a0f0-c1100aca621b)
