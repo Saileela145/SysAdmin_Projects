@@ -8,7 +8,7 @@ Create separate partitions for three departments — HR, Accounts, and IT — on
 | Department | Drive Letter | Volume Label | Size |
 |------------|--------------|--------------|------|
 | HR         | H:           | HR_Data      | 5 GB |
-| Accounts   | A:           | AccountsDB   | 10 GB |
+| Accounts   | A:           | AccountsDB   | 10 GB|
 | IT         | I:           | IT_Storage   | 8 GB |
 
 ## 🛠️ Commands Used
