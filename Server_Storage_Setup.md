@@ -13,7 +13,7 @@ Create separate partitions for three departments — HR, Accounts, and IT — on
 
 ## 🛠️ Commands Used
 
-```cmd
+cmd
 diskpart
 select disk 0
 
@@ -32,7 +32,6 @@ assign letter=I
 list volume
 exit
 
-'''
 ![HR Partition](images/hr_partition.png)
 ![Accounts Partition](images/accountsdb.png)
 ![IT Partition](images/it_storage.png)
