@@ -41,7 +41,7 @@ powershell
 net share CompanyData="D:\CompanyData" /grant:Everyone,full
 
 # 5️⃣ Set NTFS Permissions (More Secure)
-```
+
 powershell
 # Give Managers Read/Write
 icacls "D:\CompanyData" /grant "Managers:(OI)(CI)M"
@@ -62,7 +62,7 @@ F – Full Control
 # 6️⃣ Test the Setup
 Log in as Manager1 → Try creating and editing files.
 Log in as Employee1 → You should be able to open but not modify files.
-Log in as Admin1 → Full control. ```.
+Log in as Admin1 → Full control.
 
 ----> 📌 Project Task I complished
 
