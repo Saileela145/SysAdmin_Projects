@@ -62,7 +62,7 @@ F – Full Control
 # 6️⃣ Test the Setup
 Log in as Manager1 → Try creating and editing files.
 Log in as Employee1 → You should be able to open but not modify files.
-Log in as Admin1 → Full control.
+Log in as Admin1 → Full control. ```.
 
 ----> 📌 Project Task I complished
 
@@ -71,6 +71,7 @@ Project Name: Company File Server with Role-Based Access
 # commands in windows powershell
 
 <img width="1920" height="1020" alt="Screenshot 2025-08-03 043800" src="https://github.com/user-attachments/assets/92b49183-66ba-46e3-b495-1b1aab806ea4" />
+
 <img width="1920" height="1020" alt="Screenshot 2025-08-03 043821" src="https://github.com/user-attachments/assets/aaa94f6f-b77d-48e6-845b-e1bb51fc800b" />
 
 # commands in windows powershell run administartor
